@@ -1,0 +1,16 @@
+aiohttp==3.8.4
+asyncpg==0.27.0
+docutils==0.20.1
+matplotlib==3.7.1
+nacl==0.0.0
+numpy==1.24.2
+orjson==3.9.1
+pytest==7.4.0
+Requests==2.31.0
+selenium==4.10.0
+setuptools==65.6.3
+Sphinx==7.0.1
+typing_extensions==4.6.3
+yarl==1.9.2
+yfinance==0.2.21
+youtube_dl==2021.12.17
